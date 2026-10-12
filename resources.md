@@ -1,9 +1,8 @@
 # Design
 
-## Design Tools
-- https://penpot.app/self-host
 
-## UI/UX
+
+## 1. UI/UX
 - https://ixdf.org/library - Possui uma vasta biblioteca de artigos acadêmicos e técnicos sobre UX totalmente abertos ao público.
 - https://lawsofux.com/ - Um guia visual e interativo que reúne as principais leis da psicologia aplicadas ao design de interfaces.
 - https://uxmyths.com/ - Um site que desmistifica crenças populares sobre a experiência do usuário com base em pesquisas reais.
@@ -20,6 +19,11 @@
 - https://flexboxfroggy.com/ - Site que ensina a usar flex-box
 - TinyMCE - Editor Texto WYSIWYG.
 
+
+## Design Tools
+- https://penpot.app/self-host
+- https://excalidraw.com/ - Diagramador Canvas Infinito (não precisa fazer login, colaboração live via link)
+  
 ---
 
 # Programação
@@ -33,13 +37,12 @@
 - https://py.checkio.org/ - Desafios de programação em python
 - https://learnyourway.withgoogle.com/ - IA de aprendizagem do Google
 
-# GIT
+### GIT Games
 - https://gitmastery.me/ - Learn Git commands and concepts through fun, interactive challenges. Practice Git in a safe environment with visual feedback and structured learning paths.
 - https://ohmygit.org/ - Oh My Git! visualizes the internal structures of Git repositories in realtime. The player can immediately see the results of their actions:
 
 
-# SQL
-## SQL Beginner
+### SQL Games Beginner
 Complete beginner? Start with SQL Island or SQL Police Department for guided progression.
 - https://sqlbolt.com/ - series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 - https://sql-island.informatik.uni-kl.de/ - Resolva puzzles guiados em uma ilha deserta.
@@ -47,11 +50,11 @@ Complete beginner? Start with SQL Island or SQL Police Department for guided pro
 - https://lost-at-sql.therobinlord.com/ - Lost at SQL - Um jogo de aventura baseado em texto no qual você aprende SQL resolvendo puzzles numa ilha deserta.
 - https://codepip.com/games/querymon/ - Aprenda a usar queries SQL para localizar pokemons (login, plano grátis).
 
-## SQL Junior
+### SQL Games Junior
 Know the basics? Jump into SQL Murder Mystery to master joins and intermediate concepts.
 - https://mystery.knightlab.com/ - SQL Murder Mystery - Resolva crimes usando habilidades SQL.
 
-## SQL Mid-Level
+### SQL Games Mid-Level
 Ready for a challenge? Try SQL Noir or SQL Case Files for complex, realistic scenarios.
 - https://www.sqlnoir.com/pt-br - SQL Noir - Aprenda SQL jogando — resolva crimes com suas próprias consultas.
 - https://sqlcasefiles.com/ - Jogo online no qual você resolve crimes usando SQL (e aprende SQL no processo). Aprenda SQL enquanto joga!
@@ -59,26 +62,25 @@ Interview prep? SQL Squid Game and SQL Case Files simulate high-pressure situati
 - https://datalemur.com/sql-game - SQL Squid Game - Domine habilidades SQL com desafios inspirados pela série Round 6 da Netflix.
 - https://datalemur.com/sql-interview-questions - Plataforma de prática interativa para entrevistas que oferece um jeito simples de praticar puzzles SQL que você pode encontrar como um Analista de dados ou cientista de Dados.
 
-## Senior
+### SQL Games Senior
 Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://sqlzoo.net/wiki/SQL_Tutorial - SQL Interativo.
 - https://selectstarsql.com/ - Livro completo e interativo de SQL onde você aprende na prática.
 - https://www.cs.uct.ac.za/mit_notes/database/htmls/chp01.html - Curso Completo Bancos de Dados.
 
+---
+
 # Programas:
 - https://dbeaver.io/download/ - DBeaver is free and open source universal database tool for developers and database administrators.
 - https://vscode.dev/ - Versão Online do VScode
+- https://obsidian.md/ - Programa aoganizar notas com arquivos markdown. Gratuito.
+- https://www.zotero.org/ - Criação de Fichamento / Organizador ideias
+
+
+# Linux
+- https://labex.io/linuxjourney/courses/permissions
 
 
 # Uncathegorized
 - https://alternativeto.net/ - crowd-sourced and free site that helps you find better apps and services.
 - https://i2p.net/pt/ - O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
-
-# Linux
-- https://labex.io/linuxjourney/courses/permissions
-
-# Estudo:
-- https://obsidian.md/ - Programa aoganizar notas com arquivos markdown. Gratuito.
-- https://excalidraw.com/ - Diagramador Canvas Infinito (não precisa fazer login, colaboração live via link)
-- https://www.zotero.org/ - Criação de Fichamento / Organizador ideias
-
