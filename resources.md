@@ -1,5 +1,5 @@
 # Design
-## 1. UI/UX
+## UI/UX
 - https://ixdf.org/library - Possui uma vasta biblioteca de artigos acadêmicos e técnicos sobre UX totalmente abertos ao público.
 - https://lawsofux.com/ - Um guia visual e interativo que reúne as principais leis da psicologia aplicadas ao design de interfaces.
 - https://uxmyths.com/ - Um site que desmistifica crenças populares sobre a experiência do usuário com base em pesquisas reais.
