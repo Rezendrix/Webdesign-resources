@@ -19,6 +19,10 @@ https://labex.io/linuxjourney/courses/permissions
 # SQL
 https://sqlbolt.com/
 
+
+# Editor 
+TinyMCE - Editor Texto WYSIWYG
+
 # GIT
 https://gitmastery.me/
 https://ohmygit.org/
