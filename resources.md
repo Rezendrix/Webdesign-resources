@@ -20,12 +20,9 @@
 - https://flexboxfroggy.com/ - Site que ensina a usar flex-box
 - TinyMCE - Editor Texto WYSIWYG.
 
-
+---
 
 # Programação
-
-## Aprendizado:
-
 - https://roadmap.sh/ - Trilhas de aprendizado de programação
 - https://devdocs.io/ - Documentação de programação num único lugar
 - https://refactoring.guru/design-patterns/catalog - Padrões de projeto
@@ -37,14 +34,14 @@
 - https://learnyourway.withgoogle.com/ - IA de aprendizagem do Google
 
 # GIT
-- https://gitmastery.me/
-- https://ohmygit.org/
+- https://gitmastery.me/ - Learn Git commands and concepts through fun, interactive challenges. Practice Git in a safe environment with visual feedback and structured learning paths.
+- https://ohmygit.org/ - Oh My Git! visualizes the internal structures of Git repositories in realtime. The player can immediately see the results of their actions:
 
 
 # SQL
 ## SQL Beginner
 Complete beginner? Start with SQL Island or SQL Police Department for guided progression.
-- https://sqlbolt.com/
+- https://sqlbolt.com/ - series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 - https://sql-island.informatik.uni-kl.de/ - Resolva puzzles guiados em uma ilha deserta.
 - https://sqlpd.com/ - SQL Police Departament - SQL Police Department é um jogo online no qual você resolve crimes usando SQL (e aprende SQL no processo). Aprenda SQL enquanto joga!
 - https://lost-at-sql.therobinlord.com/ - Lost at SQL - Um jogo de aventura baseado em texto no qual você aprende SQL resolvendo puzzles numa ilha deserta.
