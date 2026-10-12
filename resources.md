@@ -11,8 +11,19 @@ https://adplist.org/ - ADPList: O ADPList é uma plataforma global maravilhosa e
 # Uncathegorized
 https://alternativeto.net/ - crowd-sourced and free site that helps you find better apps and services.
 
+O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
+
 # Linux
 https://labex.io/linuxjourney/courses/permissions
 
 # SQL
 https://sqlbolt.com/
+
+# GIT
+https://gitmastery.me/
+https://ohmygit.org/
+
+
+
+# Design Tools
+https://penpot.app/self-host
