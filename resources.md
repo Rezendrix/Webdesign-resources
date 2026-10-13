@@ -9,11 +9,14 @@
 
 ## Web Design:
 - https://squoosh.app/ - Conversor de imagens WEBP e AVIF do Google
+- https://undraw.co/ - Open-source illustrations for any idea you can imagine and create.
 - https://fileconverter.digital/ - Conversor Ilimitado de arquivos
+- https://fonts.google.com/icons - Google's 2500 glyphs icons over in a single font file with a wide range of design variants.
 - https://coolors.co/ - Site para criar/consultar paletas de cores online
 - https://realtimecolors.com/ - Criar paleta de cores para website em tempo real
 - https://contrastchecker.com/ - Site para verificar o contraste em páginas da web
 - https://flexboxfroggy.com/ - Site que ensina a usar flex-box
+- https://getbootstrap.com/- Bootstrap is the open source design system for everyone
 - TinyMCE - Editor Texto WYSIWYG.
 
 
