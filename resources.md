@@ -71,8 +71,10 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 
 
 ---
-https://flask.palletsprojects.com/en/stable/ - Flask is a lightweight WSGI web application framework designed to make getting started quick and easy, to scale up to complex applications.
-https://www.djangoproject.com/ - Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+
+# Python
+- https://flask.palletsprojects.com/en/stable/ - Flask is a lightweight WSGI web application framework designed to make getting started quick and easy, to scale up to complex applications.
+- https://www.djangoproject.com/ - Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
 ---
 
@@ -85,7 +87,7 @@ https://www.djangoproject.com/ - Django is a high-level Python web framework tha
 # Programas:
 - https://dbeaver.io/download/ - DBeaver is free and open source universal database tool for developers and database administrators.
 - https://vscode.dev/ - Versão Online do VScode
-- https://obsidian.md/ - Programa aoganizar notas com arquivos markdown. Gratuito.
+- https://obsidian.md/ - Programa para organizar notas com arquivos markdown. Gratuito.
 - https://www.zotero.org/ - Criação de Fichamento / Organizador ideias
 
 
