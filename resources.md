@@ -85,6 +85,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://nginxproxymanager.com/ - Open-source, web-based tool that simplifies managing Nginx reverse proxies and SSL certificates.
 - https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
 - https://www.mkdocs.org/
+- https://immich.app/ - Self-hosted photo and video management solution
 
 ---
 
@@ -97,6 +98,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 
 # SSH
 - https://www.youtube.com/watch?v=RqdcUDgq3Ok - O único guia de SSH que você precisa em 2026!
+- https://www.youtube.com/watch?v=px_eXsXMFcs
 
 # Linux
 - https://labex.io/linuxjourney/courses/permissions
