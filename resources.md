@@ -96,6 +96,8 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://dbeaver.io/download/ - DBeaver is free and open source universal database tool for developers and database administrators.
 - https://vscode.dev/ - Versão Online do VScode
 - https://obsidian.md/ - Programa para organizar notas com arquivos markdown. Gratuito.
+- https://logseq.com/downloads - Rival Obsidian Open Source
+- https://www.dendron.so/ - Rival Obsidian - Extensão VSCode
 - https://www.zotero.org/ - Criação de Fichamento / Organizador ideias
 
 
@@ -105,6 +107,9 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 
 # Linux
 - https://labex.io/linuxjourney/courses/permissions
+
+# Backend
+https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 
 
 # Uncathegorized
