@@ -67,6 +67,12 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 
 ---
 
+# Docker
+- https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
+- https://www.mkdocs.org/
+
+---
+
 # Programas:
 - https://dbeaver.io/download/ - DBeaver is free and open source universal database tool for developers and database administrators.
 - https://vscode.dev/ - Versão Online do VScode
