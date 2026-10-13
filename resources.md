@@ -24,8 +24,7 @@
 - https://www.piskelapp.com/ - Free online editor for animated sprites & pixel art
 - https://fileconverter.digital/ - Conversor Ilimitado de arquivos
 - https://squoosh.app/ - Conversor de imagens WEBP e AVIF do Google
-- https://penpot.app/self-host - Rival do FIGMA local
-  - https://www.youtube.com/watch?v=NEsU-c4OaqA - How to install Free Penpot on Ubuntu
+
 ---
 
 # Programação
@@ -80,6 +79,10 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 ---
 
 # Docker
+- https://penpot.app/self-host - Rival do FIGMA local
+  - https://www.youtube.com/watch?v=8YkHle-Jmm8 - Adeus Figma, olá PenPot: a revolução da auto-hospedagem
+  - https://www.youtube.com/watch?v=NEsU-c4OaqA - How to install Free Penpot on Ubuntu
+- https://nginxproxymanager.com/ - Open-source, web-based tool that simplifies managing Nginx reverse proxies and SSL certificates.
 - https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
 - https://www.mkdocs.org/
 
@@ -91,6 +94,9 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://obsidian.md/ - Programa para organizar notas com arquivos markdown. Gratuito.
 - https://www.zotero.org/ - Criação de Fichamento / Organizador ideias
 
+
+# SSH
+- https://www.youtube.com/watch?v=RqdcUDgq3Ok - O único guia de SSH que você precisa em 2026!
 
 # Linux
 - https://labex.io/linuxjourney/courses/permissions
