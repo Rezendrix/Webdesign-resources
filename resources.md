@@ -69,6 +69,11 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://selectstarsql.com/ - Livro completo e interativo de SQL onde você aprende na prática.
 - https://www.cs.uct.ac.za/mit_notes/database/htmls/chp01.html - Curso Completo Bancos de Dados.
 
+
+---
+https://flask.palletsprojects.com/en/stable/ - Flask is a lightweight WSGI web application framework designed to make getting started quick and easy, to scale up to complex applications.
+https://www.djangoproject.com/ - Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+
 ---
 
 # Docker
