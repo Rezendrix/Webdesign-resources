@@ -25,6 +25,7 @@
 - https://fileconverter.digital/ - Conversor Ilimitado de arquivos
 - https://squoosh.app/ - Conversor de imagens WEBP e AVIF do Google
 - https://penpot.app/self-host - Rival do FIGMA local
+  - https://www.youtube.com/watch?v=NEsU-c4OaqA - How to install Free Penpot on Ubuntu
 ---
 
 # Programação
