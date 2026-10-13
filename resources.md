@@ -84,6 +84,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
   - https://www.youtube.com/watch?v=8YkHle-Jmm8 - Adeus Figma, olá PenPot: a revolução da auto-hospedagem
   - https://www.youtube.com/watch?v=NEsU-c4OaqA - How to install Free Penpot on Ubuntu
 - https://nginxproxymanager.com/ - Open-source, web-based tool that simplifies managing Nginx reverse proxies and SSL certificates.
+  - https://www.youtube.com/watch?v=BtgOboiwupc
   - https://www.youtube.com/watch?v=E5_Cklaeg7A
 - https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
 - https://www.mkdocs.org/
