@@ -28,10 +28,23 @@
 
 ---
 
-# Programação
+## Recursos de aprendizado
+https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more with hands-on tutorials and interactive browser playgrounds. Follow structured roadmaps to become a DevOps Engineer.
 - https://roadmap.sh/ - Trilhas de aprendizado de programação
-- https://devdocs.io/ - Documentação de programação num único lugar
+- https://killercoda.com/ - Cursos linux, kubernetes, docker, sem login
 - https://refactoring.guru/design-patterns/catalog - Padrões de projeto
+- https://labex.io/linuxjourney/courses/permissions - Linux
+- https://learn.webterm.app/en - Aprenda Terminal Linux
+- https://www.khanacademy.org/computing/computer-programming
+- https://labex.io/pricing
+  
+---
+
+
+# Programação
+
+- https://devdocs.io/ - Documentação de programação num único lugar
+
 
 ## Desafios e games:
 - https://www.codewars.com/ - Desafios de programação em diversas linguagens
@@ -45,6 +58,7 @@
 
 
 ### SQL Games Beginner
+https://sqlint.com/ - Solve interview-style SQL problems, explore real-world case studies, play story-driven puzzles, and track progress — all in one clean workspace.
 Complete beginner? Start with SQL Island or SQL Police Department for guided progression.
 - https://sqlbolt.com/ - series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 - https://sql-island.informatik.uni-kl.de/ - Resolva puzzles guiados em uma ilha deserta.
@@ -105,8 +119,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://www.youtube.com/watch?v=RqdcUDgq3Ok - O único guia de SSH que você precisa em 2026!
 - https://www.youtube.com/watch?v=px_eXsXMFcs
 
-# Linux
-- https://labex.io/linuxjourney/courses/permissions
+
 
 # Backend
 https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
@@ -115,3 +128,5 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 # Uncathegorized
 - https://alternativeto.net/ - crowd-sourced and free site that helps you find better apps and services.
 - https://i2p.net/pt/ - O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
+- https://sandbox.httpsms.com/ - Envie e receba sms para teste gratuito diário.
+- https://jsonplaceholder.typicode.com/ - free online REST API that you can use whenever you need some fake data: in documentation and tutorials, in code examples, in a quick prototype, or simply to test things locally. 
