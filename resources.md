@@ -119,7 +119,17 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://www.youtube.com/watch?v=RqdcUDgq3Ok - O único guia de SSH que você precisa em 2026!
 - https://www.youtube.com/watch?v=px_eXsXMFcs
 
-
+# Linux
+- https://explainshell.com/ - ferramenta web gratuita que decompõe comandos de terminal e explica a função de cada argumento, opção (flag) e parâmetro.
+- https://www.shellcheck.net/ - Find bugs in shell scripts
+- curl cheat.sh/tar - Rode diretamente no shell para obter exemplos consisos e práticos de uso de qualquer comando ou linguagem de programação
+- https://webminal.org/ - Terminal linux para praticar sem prejudicar sua máquina.
+- https://repology.org/ - Monitora versões de pacotes linux e mostra qual distro roda a versão mais atual ou desatualizada
+- https://distrosea.com/pt/ - Teste distros linux no browser com máquinas virtuais
+- https://flathub.org/pt-BR - Loja de aplicativos Linux (flatpack instala o mesmo programa em qualquer versão linux)
+- https://www.protondb.com/ - Game information if a game runs on Proton (steam compatibility layer for Linux), Steam Deck, and SteamOS.
+- https://wiki.archlinux.org/title/Main_page - ArchLinux documentation is so good that you can use it to understand how components work even on other distros 
+- 
 
 # Backend
 https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
