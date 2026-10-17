@@ -36,7 +36,7 @@ https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more
 - https://labex.io/linuxjourney/courses/permissions - Linux
 - https://learn.webterm.app/en - Aprenda Terminal Linux
 - https://www.khanacademy.org/computing/computer-programming
-- https://labex.io/pricing
+- https://pwn.college/ - curso gratuito de hacker
   
 ---
 
