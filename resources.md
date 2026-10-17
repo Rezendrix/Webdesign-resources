@@ -44,7 +44,11 @@ https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more
 # Programação
 
 - https://devdocs.io/ - Documentação de programação num único lugar
-
+- https://github.com/sindresorhus/awesome - Repositório cheio de repositórios.
+- https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md - livros de programação
+- https://github.com/public-apis/public-apis - APIs públicas para projetos e protótipos
+- https://github.com/practical-tutorials/project-based-learning - Projetos para aprender criando.
+- https://github.com/codecrafters-io/build-your-own-x - Tutoriais para recriar tecnologias e projetos do zero.
 
 ## Desafios e games:
 - https://www.codewars.com/ - Desafios de programação em diversas linguagens
@@ -94,6 +98,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 ---
 
 # Docker
+- https://livro.descomplicandodocker.com.br/
 - https://penpot.app/self-host - Rival do FIGMA local
   - https://www.youtube.com/watch?v=8YkHle-Jmm8 - Adeus Figma, olá PenPot: a revolução da auto-hospedagem
   - https://www.youtube.com/watch?v=NEsU-c4OaqA - How to install Free Penpot on Ubuntu
