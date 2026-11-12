@@ -144,4 +144,5 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 - https://alternativeto.net/ - crowd-sourced and free site that helps you find better apps and services.
 - https://i2p.net/pt/ - O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
 - https://sandbox.httpsms.com/ - Envie e receba sms para teste gratuito diário.
-- https://jsonplaceholder.typicode.com/ - free online REST API that you can use whenever you need some fake data: in documentation and tutorials, in code examples, in a quick prototype, or simply to test things locally. 
+- https://jsonplaceholder.typicode.com/ - free online REST API that you can use whenever you need some fake data: in documentation and tutorials, in code examples, in a quick prototype, or simply to test things locally.
+- https://tools.pdf24.org/pt/comprimir-pdf - Diminui arquivos PDF online, ilimitado. De 140MB para 400kb. Bom.
