@@ -25,6 +25,8 @@
 - https://www.piskelapp.com/ - Free online editor for animated sprites & pixel art
 - https://fileconverter.digital/ - Conversor Ilimitado de arquivos
 - https://squoosh.app/ - Conversor de imagens WEBP e AVIF do Google
+- https://vert.sh/ - Conversor de arquivos ilimitados local.
+- https://svgconverter.app/ - Converta imagens em SVG online
 
 ---
 
@@ -37,7 +39,17 @@ https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more
 - https://learn.webterm.app/en - Aprenda Terminal Linux
 - https://www.khanacademy.org/computing/computer-programming
 - https://pwn.college/ - curso gratuito de hacker
-  
+
+## Hacking
+- https://hacktricks.wiki/ - Coleção de técnicas de teste de penetração e pesquisa de segurança.
+- https://gtfobins.org/ - Como binários legítimos do linux podem ser explorados em configurações inseguras.
+- https://lolbas-project.github.io/ - Aprenda como ferramentas built ins do windows podem ser usadas por adversários.
+- https://github.com/swisskyrepo/payloadsallthethings - Coleção de vulnerabilidades da web com exemplos e referências para testes.
+- https://cheatsheetseries.owasp.org/ - Aprenda como prevenir vulnerabilidades comuns de segurança.
+- https://www.hacksplaining.com/ - Aprenda sobre Hacking ético e segurança de graça.
+- https://academy.hackthebox.com/ - Aprenda a hackear.
+
+
 ---
 
 
@@ -49,6 +61,7 @@ https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more
 - https://github.com/public-apis/public-apis - APIs públicas para projetos e protótipos
 - https://github.com/practical-tutorials/project-based-learning - Projetos para aprender criando.
 - https://github.com/codecrafters-io/build-your-own-x - Tutoriais para recriar tecnologias e projetos do zero.
+- https://designed-to-scale.vercel.app/
 
 ## Desafios e games:
 - https://www.codewars.com/ - Desafios de programação em diversas linguagens
@@ -140,9 +153,35 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 
 
+# OSINT
+- https://revealer.us/
+- https://intelbase.is/
+- https://osintsearch.org/
+
 # Uncathegorized
 - https://alternativeto.net/ - crowd-sourced and free site that helps you find better apps and services.
 - https://i2p.net/pt/ - O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
 - https://sandbox.httpsms.com/ - Envie e receba sms para teste gratuito diário.
 - https://jsonplaceholder.typicode.com/ - free online REST API that you can use whenever you need some fake data: in documentation and tutorials, in code examples, in a quick prototype, or simply to test things locally.
 - https://tools.pdf24.org/pt/comprimir-pdf - Diminui arquivos PDF online, ilimitado. De 140MB para 400kb. Bom.
+
+- https://learn-arduino-red.vercel.app/pt/ - Aprenda arduíno online. Interativo 3D.
+- https://origami.me/ - aprenda origami online.
+- https://www.kiddoworksheets.com/addition/ - Folhas de atividades para crianças prontas para impressão. Vários assuntos.
+
+- https://pt.ifixit.com/ - Guias de como consertar tudo.
+- https://storytribeapp.com/pricing - Crie storyboards sem habilidades de desenho. Milhares de assets.
+
+## Química
+- https://zperiod.app/?lang=pt-BR - Estude a tabela periódica de maneira interativa.
+- https://chemistry-en.nobook.com/console/templates/resource - faça experiências químicas online. Interativo.
+
+# Matemática
+- https://www.wolframalpha.com/ - Resolva equações de várias matérias.
+
+## Música
+- https://www.hooktheory.com/theorytab - Tablaturas que mostram a teoria por tŕas. Interativo.
+- https://songsterr.com - Tablatura para músicas online. Interativo.
+- https://www.splitmysong.com/pt-BR - Separa faixas de áudio de uma música online.
+
+- ankergames.net - projeto de port de games para PC.
