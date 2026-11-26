@@ -61,7 +61,6 @@ https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more
 # Programação
 
 - https://devdocs.io/ - Documentação de programação num único lugar
-- https://github.com/sindresorhus/awesome - Repositório cheio de repositórios.
 - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md - livros de programação
 - https://github.com/public-apis/public-apis - APIs públicas para projetos e protótipos
 - https://github.com/practical-tutorials/project-based-learning - Projetos para aprender criando.
@@ -164,10 +163,10 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 - https://osintsearch.org/ - Encontra dados expostos na internet.
 - https://www.sherlocksearch.com/ - Busca fotos em várias redes sociais.
 - https://spiderfoot.tools/email - Encontra dados expostos na internet.
-- 
+  
 - https://google-dorks.com/#builder
 - https://github.com/s0cm0nkey/Security-Reference-Guide/blob/main/cyber-intelligence/osint/search-engines/google-dorking-cheatsheet.md
-  
+
 - https://grabify.org/ - Inclua um rastreador de IP em uma imagem.
 - https://www.shodan.io/ - informe um IP e ele procura portas e vulnerabilidades abertas.
 
@@ -175,7 +174,7 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 # Uncathegorized
 - https://github.com/sindresorhus/awesome - Lista curada como essa.
 - https://github.com/ripienaar/free-for-dev - Lista curada de serviços gratuitos para devs.
-- 
+
 - https://alternativeto.net/ - crowd-sourced and free site that helps you find better apps and services.
 - https://i2p.net/pt/ - O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
 - https://sandbox.httpsms.com/ - Envie e receba sms para teste gratuito diário.
