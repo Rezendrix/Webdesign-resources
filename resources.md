@@ -16,7 +16,9 @@
 - https://flexboxfroggy.com/ - Site que ensina a usar flex-box
 - https://getbootstrap.com/- Bootstrap is the open source design system for everyone
 - https://www.tiny.cloud/get-tiny/ - Editor Texto WYSIWYG.
-
+- https://d2lang.com/examples/tala/ - Crie Diagramas onilne com código.
+- https://photopea.com - Photoshop online
+- https://www.piskelapp.com/ - Free online sprite editor
 
 ## Design Tools
 
@@ -27,6 +29,7 @@
 - https://squoosh.app/ - Conversor de imagens WEBP e AVIF do Google
 - https://vert.sh/ - Conversor de arquivos ilimitados local.
 - https://svgconverter.app/ - Converta imagens em SVG online
+- https://labs.google.com/pomelli/about/ - Ferramenta de IA do Google para branding online. 
 
 ---
 
@@ -48,6 +51,8 @@ https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more
 - https://cheatsheetseries.owasp.org/ - Aprenda como prevenir vulnerabilidades comuns de segurança.
 - https://www.hacksplaining.com/ - Aprenda sobre Hacking ético e segurança de graça.
 - https://academy.hackthebox.com/ - Aprenda a hackear.
+- https://haveibeenpwned.com/ - Verifique se seu email saiu em algum vazamento de dados.
+
 
 
 ---
@@ -154,23 +159,39 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 
 
 # OSINT
-- https://revealer.us/
-- https://intelbase.is/
-- https://osintsearch.org/
+- https://revealer.us/ - Encontra dados expostos na internet.
+- https://intelbase.is/ - Encontra dados expostos na internet.
+- https://osintsearch.org/ - Encontra dados expostos na internet.
+- https://www.sherlocksearch.com/ - Busca fotos em várias redes sociais.
+- https://spiderfoot.tools/email - Encontra dados expostos na internet.
+- 
+- https://google-dorks.com/#builder
+- https://github.com/s0cm0nkey/Security-Reference-Guide/blob/main/cyber-intelligence/osint/search-engines/google-dorking-cheatsheet.md
+  
+- https://grabify.org/ - Inclua um rastreador de IP em uma imagem.
+- https://www.shodan.io/ - informe um IP e ele procura portas e vulnerabilidades abertas.
+
 
 # Uncathegorized
+- https://github.com/sindresorhus/awesome - Lista curada como essa.
+- https://github.com/ripienaar/free-for-dev - Lista curada de serviços gratuitos para devs.
+- 
 - https://alternativeto.net/ - crowd-sourced and free site that helps you find better apps and services.
 - https://i2p.net/pt/ - O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
 - https://sandbox.httpsms.com/ - Envie e receba sms para teste gratuito diário.
 - https://jsonplaceholder.typicode.com/ - free online REST API that you can use whenever you need some fake data: in documentation and tutorials, in code examples, in a quick prototype, or simply to test things locally.
 - https://tools.pdf24.org/pt/comprimir-pdf - Diminui arquivos PDF online, ilimitado. De 140MB para 400kb. Bom.
+- https://justdeleteme.xyz/pt-BR - Links diretos para deletar suas contas online.
+- https://coveryourtracks.eff.org/ - Descubra o quão identificável seu browser é.
 
 - https://learn-arduino-red.vercel.app/pt/ - Aprenda arduíno online. Interativo 3D.
+- https://simulator.electude.com/simulator - aprenda a consertar carro online. Interativo 2d
 - https://origami.me/ - aprenda origami online.
 - https://www.kiddoworksheets.com/addition/ - Folhas de atividades para crianças prontas para impressão. Vários assuntos.
 
 - https://pt.ifixit.com/ - Guias de como consertar tudo.
 - https://storytribeapp.com/pricing - Crie storyboards sem habilidades de desenho. Milhares de assets.
+- https://watabou.github.io/ - Crie mapas medievais online.
 
 ## Química
 - https://zperiod.app/?lang=pt-BR - Estude a tabela periódica de maneira interativa.
