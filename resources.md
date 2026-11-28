@@ -25,6 +25,7 @@
 - https://excalidraw.com/ - Diagramador Canvas Infinito (não precisa fazer login, colaboração live via link)
 - https://app.diagrams.net/ - Ferramenta para criação de Diagramas.
 - https://www.piskelapp.com/ - Free online editor for animated sprites & pixel art
+- https://tezumie.github.io/Image-to-Pixel/editor/ - Transforma qualquer imagem em pixelart
 <br>
 
 - https://tools.pdf24.org/pt/comprimir-pdf - Diminui arquivos PDF online, ilimitado. De 140MB para 400kb. Bom.
