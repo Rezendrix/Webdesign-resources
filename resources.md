@@ -38,7 +38,8 @@ https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more
 - https://roadmap.sh/ - Trilhas de aprendizado de programação
 - https://killercoda.com/ - Cursos linux, kubernetes, docker, sem login
 - https://refactoring.guru/design-patterns/catalog - Padrões de projeto
-- https://labex.io/linuxjourney/courses/permissions - Linux
+- https://labex.io/linuxjourney - Curso gratuito Linux.
+- 
 - https://learn.webterm.app/en - Aprenda Terminal Linux
 - https://www.khanacademy.org/computing/computer-programming
 - https://pwn.college/ - curso gratuito de hacker
@@ -142,6 +143,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://www.youtube.com/watch?v=px_eXsXMFcs
 
 # Linux
+- https://labex.io/linuxjourney - Curso Linux gratuito.
 - https://explainshell.com/ - ferramenta web gratuita que decompõe comandos de terminal e explica a função de cada argumento, opção (flag) e parâmetro.
 - https://www.shellcheck.net/ - Find bugs in shell scripts
 - curl cheat.sh/tar - Rode diretamente no shell para obter exemplos consisos e práticos de uso de qualquer comando ou linguagem de programação
@@ -166,6 +168,7 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 - https://fingerprint.to/ - Encontra dados expostos na internet com email.
 - https://breachdirectory.org/ - Verifica se há vazamentos de senha para emails.
 - https://haveibeenpwned.com/ - verifica se email vazou.
+- https://start.me/p/L1rEYQ/osint4all - Lista com diversos serviços OSINT
   
 - https://google-dorks.com/#builder
 - https://github.com/s0cm0nkey/Security-Reference-Guide/blob/main/cyber-intelligence/osint/search-engines/google-dorking-cheatsheet.md
@@ -190,6 +193,7 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 - https://simulator.electude.com/simulator - aprenda a consertar carro online. Interativo 2d
 - https://origami.me/ - aprenda origami online.
 - https://www.kiddoworksheets.com/addition/ - Folhas de atividades para crianças prontas para impressão. Vários assuntos.
+- https://paperme.pixzens.com/pt - Planilhas para impressão ilimitadas. Sem login.
 
 - https://pt.ifixit.com/ - Guias de como consertar tudo.
 - https://storytribeapp.com/pricing - Crie storyboards sem habilidades de desenho. Milhares de assets.
