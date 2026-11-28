@@ -33,18 +33,12 @@
 
 ---
 
-## Recursos de aprendizado
-https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more with hands-on tutorials and interactive browser playgrounds. Follow structured roadmaps to become a DevOps Engineer.
+# Recursos de aprendizado
+
 - https://roadmap.sh/ - Trilhas de aprendizado de programação
-- https://killercoda.com/ - Cursos linux, kubernetes, docker, sem login
-- https://refactoring.guru/design-patterns/catalog - Padrões de projeto
-- https://labex.io/linuxjourney - Curso gratuito Linux.
-- 
-- https://learn.webterm.app/en - Aprenda Terminal Linux
-- https://www.khanacademy.org/computing/computer-programming
-- https://pwn.college/ - curso gratuito de hacker
 
 ## Hacking
+- https://pwn.college/ - Curso gratuito de hacker
 - https://hacktricks.wiki/ - Coleção de técnicas de teste de penetração e pesquisa de segurança.
 - https://gtfobins.org/ - Como binários legítimos do linux podem ser explorados em configurações inseguras.
 - https://lolbas-project.github.io/ - Aprenda como ferramentas built ins do windows podem ser usadas por adversários.
@@ -52,21 +46,49 @@ https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more
 - https://cheatsheetseries.owasp.org/ - Aprenda como prevenir vulnerabilidades comuns de segurança.
 - https://www.hacksplaining.com/ - Aprenda sobre Hacking ético e segurança de graça.
 - https://academy.hackthebox.com/ - Aprenda a hackear.
+<br>
+
 - https://haveibeenpwned.com/ - Verifique se seu email saiu em algum vazamento de dados.
 
+
+# Linux
+- https://distrosea.com/pt/ - Teste distros linux no browser com máquinas virtuais
+- https://carotos.org/pt/ - distro focada a ensinar segurança cibernética para iniciantes.
+- https://repology.org/ - Monitora versões de pacotes linux e mostra qual distro roda a versão mais atual ou desatualizada
+- https://flathub.org/pt-BR - Loja de aplicativos Linux (flatpack instala o mesmo programa em qualquer versão linux)
+<br>
+
+- https://labex.io/linuxjourney - Curso gratuito Linux.
+- https://labex.io/courses/quick-start-with-linux?skilltree=linux - Curso Gratuito com 3 laboratórios por dia.
+- https://learn.webterm.app/en - Aprenda Terminal Linux
+- https://killercoda.com/ - Cursos linux, kubernetes, docker, sem login
+<br>
+
+- https://explainshell.com/ - ferramenta web gratuita que decompõe comandos de terminal e explica a função de cada argumento, opção (flag) e parâmetro.
+- https://webminal.org/ - Terminal linux para praticar sem prejudicar sua máquina.
+<br>
+
+- https://www.shellcheck.net/ - Find bugs in shell scripts
+- curl cheat.sh/tar - Rode diretamente no shell para obter exemplos consisos e práticos de uso de qualquer comando ou linguagem de programação
+<br>
+
+- https://www.protondb.com/ - Game information if a game runs on Proton (steam compatibility layer for Linux), Steam Deck, and SteamOS.
+- https://wiki.archlinux.org/title/Main_page - ArchLinux documentation is so good that you can use it to understand how components work even on other distros 
 
 
 ---
 
-
 # Programação
+- https://refactoring.guru/design-patterns/catalog - Padrões de projeto
+- https://www.khanacademy.org/computing/computer-programming
+<br>
 
 - https://devdocs.io/ - Documentação de programação num único lugar
 - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md - livros de programação
 - https://github.com/public-apis/public-apis - APIs públicas para projetos e protótipos
 - https://github.com/practical-tutorials/project-based-learning - Projetos para aprender criando.
 - https://github.com/codecrafters-io/build-your-own-x - Tutoriais para recriar tecnologias e projetos do zero.
-- https://designed-to-scale.vercel.app/
+- https://designed-to-scale.vercel.app/ - Curso de como escalar sistemas web.
 
 ## Desafios e games:
 - https://www.codewars.com/ - Desafios de programação em diversas linguagens
@@ -106,16 +128,16 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://selectstarsql.com/ - Livro completo e interativo de SQL onde você aprende na prática.
 - https://www.cs.uct.ac.za/mit_notes/database/htmls/chp01.html - Curso Completo Bancos de Dados.
 
-
----
-
-# Python
+## Python
 - https://flask.palletsprojects.com/en/stable/ - Flask is a lightweight WSGI web application framework designed to make getting started quick and easy, to scale up to complex applications.
 - https://www.djangoproject.com/ - Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
 ---
 
-# Docker
+# DEVOPS
+- https://devopslesson.com/ - Master Docker, Kubernetes, CI/CD, Terraform and more with hands-on tutorials and interactive browser playgrounds. Follow structured roadmaps to become a DevOps Engineer.
+
+## Docker
 - https://livro.descomplicandodocker.com.br/
 - https://penpot.app/self-host - Rival do FIGMA local
   - https://www.youtube.com/watch?v=8YkHle-Jmm8 - Adeus Figma, olá PenPot: a revolução da auto-hospedagem
@@ -142,36 +164,26 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://www.youtube.com/watch?v=RqdcUDgq3Ok - O único guia de SSH que você precisa em 2026!
 - https://www.youtube.com/watch?v=px_eXsXMFcs
 
-# Linux
-- https://labex.io/linuxjourney - Curso Linux gratuito.
-- https://explainshell.com/ - ferramenta web gratuita que decompõe comandos de terminal e explica a função de cada argumento, opção (flag) e parâmetro.
-- https://www.shellcheck.net/ - Find bugs in shell scripts
-- curl cheat.sh/tar - Rode diretamente no shell para obter exemplos consisos e práticos de uso de qualquer comando ou linguagem de programação
-- https://webminal.org/ - Terminal linux para praticar sem prejudicar sua máquina.
-- https://repology.org/ - Monitora versões de pacotes linux e mostra qual distro roda a versão mais atual ou desatualizada
-- https://distrosea.com/pt/ - Teste distros linux no browser com máquinas virtuais
-- https://flathub.org/pt-BR - Loja de aplicativos Linux (flatpack instala o mesmo programa em qualquer versão linux)
-- https://www.protondb.com/ - Game information if a game runs on Proton (steam compatibility layer for Linux), Steam Deck, and SteamOS.
-- https://wiki.archlinux.org/title/Main_page - ArchLinux documentation is so good that you can use it to understand how components work even on other distros 
-- https://carotos.org/pt/ - distro focada a ensinar segurança cibernética para iniciantes.
-
 # Backend
 https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
-
 
 # OSINT
 - https://revealer.us/ - Encontra dados expostos na internet.
 - https://intelbase.is/ - Encontra dados expostos na internet.
 - https://osintsearch.org/ - Encontra dados expostos na internet.
-- https://www.sherlocksearch.com/ - Busca fotos em várias redes sociais.
 - https://spiderfoot.tools/email - Encontra dados expostos na internet.
 - https://fingerprint.to/ - Encontra dados expostos na internet com email.
+- https://www.sherlocksearch.com/ - Busca fotos em várias redes sociais.
+- https://start.me/p/L1rEYQ/osint4all - Lista com diversos serviços OSINT
+<br>
+
 - https://breachdirectory.org/ - Verifica se há vazamentos de senha para emails.
 - https://haveibeenpwned.com/ - verifica se email vazou.
-- https://start.me/p/L1rEYQ/osint4all - Lista com diversos serviços OSINT
-  
+<br>
+
 - https://google-dorks.com/#builder
 - https://github.com/s0cm0nkey/Security-Reference-Guide/blob/main/cyber-intelligence/osint/search-engines/google-dorking-cheatsheet.md
+<br>
 
 - https://grabify.org/ - Inclua um rastreador de IP em uma imagem.
 - https://www.shodan.io/ - informe um IP e ele procura portas e vulnerabilidades abertas.
@@ -180,30 +192,37 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 # Uncathegorized
 - https://github.com/sindresorhus/awesome - Lista curada como essa.
 - https://github.com/ripienaar/free-for-dev - Lista curada de serviços gratuitos para devs.
+<br>
 
-- https://alternativeto.net/ - crowd-sourced and free site that helps you find better apps and services.
-- https://i2p.net/pt/ - O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
+- https://alternativeto.net/ - Crowd-sourced and free site that helps you find better apps and services.
 - https://sandbox.httpsms.com/ - Envie e receba sms para teste gratuito diário.
-- https://jsonplaceholder.typicode.com/ - free online REST API that you can use whenever you need some fake data: in documentation and tutorials, in code examples, in a quick prototype, or simply to test things locally.
+- https://jsonplaceholder.typicode.com/ - Free online REST API that you can use whenever you need some fake data: in documentation and tutorials, in code examples, in a quick prototype, or simply to test things locally.
 - https://tools.pdf24.org/pt/comprimir-pdf - Diminui arquivos PDF online, ilimitado. De 140MB para 400kb. Bom.
 - https://justdeleteme.xyz/pt-BR - Links diretos para deletar suas contas online.
 - https://coveryourtracks.eff.org/ - Descubra o quão identificável seu browser é.
+<br>
 
 - https://learn-arduino-red.vercel.app/pt/ - Aprenda arduíno online. Interativo 3D.
-- https://simulator.electude.com/simulator - aprenda a consertar carro online. Interativo 2d
-- https://origami.me/ - aprenda origami online.
+- https://simulator.electude.com/simulator - Aprenda a consertar carros online. Interativo 2d
+- https://origami.me/ - Aprenda origami online.
+<br>
+
 - https://www.kiddoworksheets.com/addition/ - Folhas de atividades para crianças prontas para impressão. Vários assuntos.
 - https://paperme.pixzens.com/pt - Planilhas para impressão ilimitadas. Sem login.
+<br>
 
 - https://pt.ifixit.com/ - Guias de como consertar tudo.
 - https://storytribeapp.com/pricing - Crie storyboards sem habilidades de desenho. Milhares de assets.
 - https://watabou.github.io/ - Crie mapas medievais online.
+<br>
+
+- https://i2p.net/pt/ - O Projeto da Internet Invisível (I2P) é uma rede de comunicação descentralizada e anônima que protege a privacidade do usuário através de criptografia em camadas.
 
 ## Química
 - https://zperiod.app/?lang=pt-BR - Estude a tabela periódica de maneira interativa.
 - https://chemistry-en.nobook.com/console/templates/resource - faça experiências químicas online. Interativo.
 
-# Matemática
+## Matemática
 - https://www.wolframalpha.com/ - Resolva equações de várias matérias.
 
 ## Música
