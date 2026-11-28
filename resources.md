@@ -25,10 +25,15 @@
 - https://excalidraw.com/ - Diagramador Canvas Infinito (não precisa fazer login, colaboração live via link)
 - https://app.diagrams.net/ - Ferramenta para criação de Diagramas.
 - https://www.piskelapp.com/ - Free online editor for animated sprites & pixel art
+<br>
+
+- https://tools.pdf24.org/pt/comprimir-pdf - Diminui arquivos PDF online, ilimitado. De 140MB para 400kb. Bom.
 - https://fileconverter.digital/ - Conversor Ilimitado de arquivos
 - https://squoosh.app/ - Conversor de imagens WEBP e AVIF do Google
 - https://vert.sh/ - Conversor de arquivos ilimitados local.
 - https://svgconverter.app/ - Converta imagens em SVG online
+<br>
+
 - https://labs.google.com/pomelli/about/ - Ferramenta de IA do Google para branding online. 
 
 ---
@@ -194,10 +199,10 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 - https://github.com/ripienaar/free-for-dev - Lista curada de serviços gratuitos para devs.
 <br>
 
+
 - https://alternativeto.net/ - Crowd-sourced and free site that helps you find better apps and services.
 - https://sandbox.httpsms.com/ - Envie e receba sms para teste gratuito diário.
 - https://jsonplaceholder.typicode.com/ - Free online REST API that you can use whenever you need some fake data: in documentation and tutorials, in code examples, in a quick prototype, or simply to test things locally.
-- https://tools.pdf24.org/pt/comprimir-pdf - Diminui arquivos PDF online, ilimitado. De 140MB para 400kb. Bom.
 - https://justdeleteme.xyz/pt-BR - Links diretos para deletar suas contas online.
 - https://coveryourtracks.eff.org/ - Descubra o quão identificável seu browser é.
 <br>
