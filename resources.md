@@ -131,7 +131,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 ## Python
 - https://flask.palletsprojects.com/en/stable/ - Flask is a lightweight WSGI web application framework designed to make getting started quick and easy, to scale up to complex applications.
 - https://www.djangoproject.com/ - Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
-
+- https://www.mkdocs.org/ - Crie documentação com Markdown
 ---
 
 # DEVOPS
@@ -146,7 +146,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
   - https://www.youtube.com/watch?v=BtgOboiwupc
   - https://www.youtube.com/watch?v=E5_Cklaeg7A
 - https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
-- https://www.mkdocs.org/
+
 - https://immich.app/ - Self-hosted photo and video management solution
 
 ---
