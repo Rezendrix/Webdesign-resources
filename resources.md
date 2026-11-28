@@ -151,7 +151,7 @@ Want comprehensive coverage? SQL Zoo is your go-to for systematic learning.
 - https://flathub.org/pt-BR - Loja de aplicativos Linux (flatpack instala o mesmo programa em qualquer versão linux)
 - https://www.protondb.com/ - Game information if a game runs on Proton (steam compatibility layer for Linux), Steam Deck, and SteamOS.
 - https://wiki.archlinux.org/title/Main_page - ArchLinux documentation is so good that you can use it to understand how components work even on other distros 
-- 
+- https://carotos.org/pt/ - distro focada a ensinar segurança cibernética para iniciantes.
 
 # Backend
 https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
