@@ -163,6 +163,9 @@ https://www.youtube.com/watch?v=mZ27vUoOEB0- Backend Explained
 - https://osintsearch.org/ - Encontra dados expostos na internet.
 - https://www.sherlocksearch.com/ - Busca fotos em várias redes sociais.
 - https://spiderfoot.tools/email - Encontra dados expostos na internet.
+- https://fingerprint.to/ - Encontra dados expostos na internet com email.
+- https://breachdirectory.org/ - Verifica se há vazamentos de senha para emails.
+- https://haveibeenpwned.com/ - verifica se email vazou.
   
 - https://google-dorks.com/#builder
 - https://github.com/s0cm0nkey/Security-Reference-Guide/blob/main/cyber-intelligence/osint/search-engines/google-dorking-cheatsheet.md
